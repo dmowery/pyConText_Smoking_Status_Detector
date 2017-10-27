@@ -1,0 +1,1 @@
+1160.txt	NON-SMOKER	Negation: denies	Smoking Tobacco: tobacco	Type: tobacco_cigarettes

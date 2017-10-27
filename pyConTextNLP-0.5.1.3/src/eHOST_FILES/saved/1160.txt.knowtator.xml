@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="1160.txt">
+    <annotation>
+        <mention id="pyCONTEXT_Instance_1" />
+        <annotator id="01">SmokingStatus_FINDER</annotator>
+        <span start="1422" end="1452" />
+        <spannedText>denies tobacco or ethanol use.</spannedText>
+        <creationDate>Fri Oct 27 12:42:16 2017</creationDate>
+    </annotation>
+    <classMention id="pyCONTEXT_Instance_1">
+        <mentionClass id="NON-SMOKER">denies tobacco or ethanol use.</mentionClass>
+    </classMention>
+    <pyCONTEXT_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>true</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>true</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>true</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </pyCONTEXT_Adjudication_Status>
+</annotations>

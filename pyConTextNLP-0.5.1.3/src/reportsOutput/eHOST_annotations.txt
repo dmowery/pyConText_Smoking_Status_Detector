@@ -1,0 +1,2 @@
+File Name	Term	Sentence Span	Class
+1160.txt	denies tobacco or ethanol use.	(1422, 1452)	NON-SMOKER

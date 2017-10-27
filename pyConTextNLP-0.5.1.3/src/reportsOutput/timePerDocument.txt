@@ -1,0 +1,2 @@
+documentName	start	end	delta
+1160.txt	1509133092.21	1509133092.79	0.574506044388
